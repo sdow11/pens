@@ -7,7 +7,7 @@ object main {
 
     println("Hello, world!")
 
-
+  // comments
 
   }
 }
